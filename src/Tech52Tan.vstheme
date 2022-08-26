@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Tech52Tan" GUID="{ee1ab0ac-1c59-477c-9ea7-e6081d6c9b2f}">
+  <Theme Name="Tech52Tan" GUID="{5F5AD00A-E926-4BD8-B2F2-1EDDBE30F742}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFFFFFFF" />

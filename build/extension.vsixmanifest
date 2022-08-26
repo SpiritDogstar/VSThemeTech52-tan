@@ -1,6 +1,6 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
   <Metadata>
-    <Identity Id="efb2984f-c529-413f-b717-1e3d44a495a7" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
+    <Identity Id="5F5AD00A-E926-4BD8-B2F2-1EDDBE30F742" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
     <DisplayName>Tech 52 Tan Theme</DisplayName>
     <Description xml:space="preserve">Tech 52's Tan Dev Theme</Description>
     <MoreInfo>https://github.com/SpiritDogstar/VSThemeTech52-tan</MoreInfo>
